@@ -4,6 +4,9 @@
 > NB: This project is the 8th of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+
 The fictional company Fruits! is looking to create a classification model for fruits and vegetables. This classification model needs preprocessed data to be trained on.
 The aim of this project is to create a data preprocessing chain that can scale once demand - meaning data volumes - massively increases. 
 
